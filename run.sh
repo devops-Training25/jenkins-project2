@@ -1,1 +1,1 @@
-echo "code run succesfully"
+echo "code run perfect"
