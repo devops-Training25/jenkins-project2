@@ -1,1 +1,1 @@
-echo "code run perfect"
+"code run perfect"
